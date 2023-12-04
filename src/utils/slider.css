@@ -1,0 +1,12 @@
+input[type='range']::-webkit-slider-runnable-track {
+    height: 1rem;
+    background-color: #74d8ff;
+    border-radius: 2rem;
+}
+
+input[type='checkbox'] {
+    height: 1.3rem;
+    accent-color: #0792c8;
+    border-radius: 2rem;
+    cursor: pointer;
+}
